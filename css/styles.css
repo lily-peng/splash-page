@@ -79,7 +79,7 @@ strong {
    ================= */
    
 .intro {
-    background-image: url(../images/dark-ribs.jpg);
+    background-image: url(../assets/dark-ribs.jpg);
     background-color: #404040;
     padding: 0 .5em 2em;
     background-size: cover;
